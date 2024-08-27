@@ -1,9 +1,9 @@
 {
   "name": "storybook-addon-tailwind-dark",
-  "version": "0.0.0",
-  "description": "An add-on to toggle the theme to tailwind dark and light mode",
+  "version": "0.0.1",
+  "description": "An add-on to toggle tailwind dark mode (selector)",
   "keywords": [
-    "tailwind", "dark", "theme", "storybook-addons"
+    "tailwind", "dark", "theme", "storybook-addons", "react"
   ],
   "repository": {
     "type": "git",
@@ -11,7 +11,7 @@
   },
   "type": "module",
   "license": "MIT",
-  "author": "tailwind-dark <abdzadehpedram@gmail.com>",
+  "author": "Pedram Abdzadeh <abdzadehpedram@gmail.com>",
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",

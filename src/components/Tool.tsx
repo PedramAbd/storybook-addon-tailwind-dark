@@ -2,7 +2,10 @@ import React, { memo, useCallback, useEffect } from "react";
 import { useGlobals, type API } from "storybook/internal/manager-api";
 import { IconButton } from "storybook/internal/components";
 import { ADDON_ID, KEY, TOOL_ID } from "../constants";
-import { LightningIcon } from "@storybook/icons";
+import {TailwindIcon} from "../tailwindIcon";
+
+
+
 
 export const Tool = memo(function MyAddonSelector({ api }: { api: API }) {
   const [globals, updateGlobals, storyGlobals] = useGlobals();
@@ -14,6 +17,7 @@ export const Tool = memo(function MyAddonSelector({ api }: { api: API }) {
     updateGlobals({
       [KEY]: !isActive,
     });
+
   }, [isActive]);
 
   useEffect(() => {
@@ -31,10 +35,12 @@ export const Tool = memo(function MyAddonSelector({ api }: { api: API }) {
       key={TOOL_ID}
       active={isActive}
       disabled={isLocked}
-      title="Enable my addon"
+      title={isActive ? 'Turn on Tailwind Dark' : 'Turn Off Tailwind Dark'}
       onClick={toggle}
+      style={{position: 'relative'}}
     >
-      <LightningIcon />
+      <TailwindIcon />
+      Dark: {isActive? 'On': 'Off'}
     </IconButton>
   );
 });
