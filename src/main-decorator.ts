@@ -36,7 +36,6 @@ export const mainDecorator= (Story: StoryFunction<Renderer>,
 
 
   useEffect(() => {
-    console.log(myAddon)
     if (myAddon) {
       switchToTheme('dark', context.viewMode)
     } else {
