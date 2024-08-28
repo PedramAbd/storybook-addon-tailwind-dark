@@ -1,3 +1,15 @@
+# v0.0.7 (Wed Aug 28 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update README.md ([@PedramAbd](https://github.com/PedramAbd))
+
+#### Authors: 1
+
+- Pedram Abdzadeh ([@PedramAbd](https://github.com/PedramAbd))
+
+---
+
 # v0.0.6 (Wed Aug 28 2024)
 
 #### ⚠️ Pushed to `main`
