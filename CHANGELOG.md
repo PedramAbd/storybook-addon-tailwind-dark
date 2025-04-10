@@ -10,6 +10,18 @@
 
 ---
 
+# v0.0.10 (Thu Apr 10 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Merge remote-tracking branch 'origin/main' (abdzadehpedram@gmail.com)
+
+#### Authors: 1
+
+- Pedram Abdzadeh (abdzadehpedram@gmail.com)
+
+---
+
 # v0.0.9 (Thu Apr 10 2025)
 
 #### ⚠️ Pushed to `main`
