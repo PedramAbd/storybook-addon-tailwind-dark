@@ -1,6 +1,6 @@
 {
   "name": "storybook-addon-tailwind-dark",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An add-on to toggle tailwind dark mode (selector)",
   "keywords": [
     "tailwind",
