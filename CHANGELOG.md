@@ -2,6 +2,20 @@
 
 #### ⚠️ Pushed to `main`
 
+- refactor: git ignore ([@PedramAbd](https://github.com/PedramAbd))
+- refactor: fix package.json ([@PedramAbd](https://github.com/PedramAbd))
+- Merge remote-tracking branch 'origin/main' ([@PedramAbd](https://github.com/PedramAbd))
+
+#### Authors: 1
+
+- Pedram Abdzadeh ([@PedramAbd](https://github.com/PedramAbd))
+
+---
+
+# v0.0.10 (Thu Apr 10 2025)
+
+#### ⚠️ Pushed to `main`
+
 - refactor: fix package.json (abdzadehpedram@gmail.com)
 - Merge remote-tracking branch 'origin/main' (abdzadehpedram@gmail.com)
 
