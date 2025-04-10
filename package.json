@@ -1,6 +1,6 @@
 {
   "name": "storybook-addon-tailwind-dark",
-  "version": "0.0.9",
+  "version": "0.0.7",
   "description": "An add-on to toggle tailwind dark mode (selector)",
   "keywords": [
     "tailwind",
@@ -16,9 +16,6 @@
   "type": "module",
   "license": "MIT",
   "author": "Pedram Abdzadeh <abdzadehpedram@gmail.com>",
-  "main": "dist/index.js",
-  "module": "dist/index.mjs",
-  "types": "dist/index.d.ts",
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
@@ -52,9 +49,7 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
-    "@storybook/icons": "^1.2.10",
-    "@storybook/types": "^8.6.12",
-    "run-p": "^0.0.0"
+    "@storybook/icons": "^1.2.10"
   },
   "devDependencies": {
     "@storybook/addon-essentials": "0.0.0-pr-26654-sha-49d01553",
