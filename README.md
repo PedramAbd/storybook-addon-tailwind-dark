@@ -1,6 +1,5 @@
-# CAUTION: WIP
 # Storybook Addon Tailwind Dark
-An add-on to toggle tailwind mode (selector) for storybook v8
+An add-on to toggle tailwind dark theme for storybook v8
 
 ## Installation
 
@@ -22,7 +21,7 @@ const config: StorybookConfig = {
   // ...rest of config
   addons: [
     '@storybook/addon-essentials',
-    'tailwind-dark-mode', // 👈 register the addon here
+    'storybook-addon-tailwind-dark', // 👈 register the addon here
   ],
 };
 
