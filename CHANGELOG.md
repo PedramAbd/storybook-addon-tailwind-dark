@@ -1,3 +1,15 @@
+# v0.0.13 (Thu Apr 10 2025)
+
+#### ⚠️ Pushed to `main`
+
+- release: first stable version (abdzadehpedram@gmail.com)
+
+#### Authors: 1
+
+- Pedram Abdzadeh (abdzadehpedram@gmail.com)
+
+---
+
 # v0.0.10 (Thu Apr 10 2025)
 
 #### ⚠️ Pushed to `main`
