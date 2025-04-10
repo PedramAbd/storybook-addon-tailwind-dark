@@ -1,3 +1,16 @@
+# v0.0.8 (Thu Apr 10 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Revert "refactor: some improvements and make project ready for release" ([@PedramAbd](https://github.com/PedramAbd))
+- refactor: some improvements and make project ready for release ([@PedramAbd](https://github.com/PedramAbd))
+
+#### Authors: 1
+
+- Pedram Abdzadeh ([@PedramAbd](https://github.com/PedramAbd))
+
+---
+
 # v0.0.7 (Wed Aug 28 2024)
 
 #### ⚠️ Pushed to `main`
