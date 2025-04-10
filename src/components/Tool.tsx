@@ -22,9 +22,9 @@ export const Tool = memo(function MyAddonSelector({ api }: { api: API }) {
 
   useEffect(() => {
     api.setAddonShortcut(ADDON_ID, {
-      label: "Toggle Add On [8]",
-      defaultShortcut: ["8"],
-      actionName: "theme",
+      label: "Toggle Measure [O]",
+      defaultShortcut: ["O"],
+      actionName: "outline",
       showInMenu: false,
       action: toggle,
     });
