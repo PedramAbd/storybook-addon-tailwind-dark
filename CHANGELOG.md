@@ -1,3 +1,16 @@
+# v0.0.9 (Thu Apr 10 2025)
+
+#### ⚠️ Pushed to `main`
+
+- refactor: some package.json improvements ([@PedramAbd](https://github.com/PedramAbd))
+- refactor: some final improvements ([@PedramAbd](https://github.com/PedramAbd))
+
+#### Authors: 1
+
+- Pedram Abdzadeh ([@PedramAbd](https://github.com/PedramAbd))
+
+---
+
 # v0.0.8 (Thu Apr 10 2025)
 
 #### ⚠️ Pushed to `main`
